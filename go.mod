@@ -13,7 +13,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/ec2 v1.50.0
 	github.com/aws/smithy-go v1.12.0
 	github.com/golang/mock v1.6.0
-	github.com/gophercloud/gophercloud v0.25.0
+	github.com/gophercloud/gophercloud v1.1.0
 	github.com/onsi/ginkgo v1.16.5
 	github.com/onsi/gomega v1.20.0
 	github.com/pkg/errors v0.9.1
@@ -55,7 +55,7 @@ require (
 	github.com/niemeyer/pretty v0.0.0-20200227124842-a10e7caefd8e // indirect
 	github.com/nxadm/tail v1.4.8 // indirect
 	go.opencensus.io v0.23.0 // indirect
-	golang.org/x/crypto v0.0.0-20220511200225-c6db032c6c88 // indirect
+	golang.org/x/crypto v0.0.0-20220829220503-c86fa9a7ed90 // indirect
 	golang.org/x/net v0.0.0-20220624214902-1bab6f366d9e // indirect
 	golang.org/x/oauth2 v0.0.0-20220622183110-fd043fe589d2 // indirect
 	golang.org/x/sys v0.0.0-20220624220833-87e55d714810 // indirect
